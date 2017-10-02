@@ -1,0 +1,191 @@
+.globaltypeahead, .tt-query, .tt-hint {
+    width: auto;
+    height: 35px;
+    padding: 8px 12px;
+    line-height: 30px;
+    outline: none;
+}
+
+.globaltypeahead {
+    background-color: #f7f7f7;
+}
+
+.globaltypeahead:focus {
+    border: 1px solid #efefef;
+}
+
+.tt-query {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+    color: #999
+}
+
+.tt-menu {
+    width: 400px;
+    margin: 12px 0;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+.tt-suggestion:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+.required {
+    color: #bd362f;
+    content: "*";
+}
+.form-control-w-250 {
+    width: 250px !important;
+}
+
+.margin-top-6 {
+    margin-top: 6px;
+}
+
+.radio-female input[type=radio]:checked + label::after {
+    background-color: #ff4081;
+}
+
+.radio-female input[type=radio] + label::after {
+    background-color: #ff4081;
+}
+
+.file-drop-zone {
+    border: 0px;
+}
+
+.text-pink {
+    color: #ec407a;
+}
+
+.text-yellow {
+    color: #fdce02;
+}
+
+.search-results a {
+    text-decoration: none !important;
+}
+
+div.search-results:hover a {
+    color: white;
+}
+
+#loadingmask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background: white url(http://smallenvelop.com/wp-content/uploads/2014/08/Preloader_8.gif) center no-repeat;
+    z-index: 10000;
+}
+
+.indicator-false {
+    cursor: auto !important;
+}
+
+.footer {
+    position: inherit;
+    bottom: 0;
+    width: 100%;
+    background-color: #4CA;
+}
+
+.footer p {
+    color: #fff;
+    font-size: .90em;
+    display: inline-block;
+}
+
+#ftr-wrap {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#ftr-wrap > div {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+#ftr-wrap > div:nth-child(1) {
+    text-align: left;
+}
+
+#ftr-wrap > div:nth-child(2) {
+    text-align: center;
+}
+
+#ftr-wrap > div:nth-child(3) {
+    text-align: right;
+}
+
+.ftr-links ul {
+    padding: 0;
+}
+
+.ftr-links ul li {
+    display: inline-block;
+    padding-right: 15px;
+    font-size: .75em;
+}
+
+.ftr-links ul li a {
+    color: #fff;
+    margin: 0;
+}
+
+.navbar-nav .dropdown-menu > li > a, .navbar-nav .dropdown-menu > li > a:focus {
+    padding: 8px 9px !important;
+}
+
+
+/***background colors css **/
+
+.bg-google-material-brown-400{background-color:#a23141}
+.bg-google-material-pink-400{background-color:#FF666F}
+.bg-google-material-purple-400{background-color:#2196F3}
+.bg-google-material-lgblue-400{background-color:#448AFF}
+.bg-google-material-skyblue-400{background-color:#00BCD4}
+.bg-google-material-green-400{background-color:#009688}
+.bg-google-material-lggreen-400{background-color:#4CAF50}
+.bg-google-material-lgred-400{background-color:#EF5350}
+.bg-google-material-purple-400{background-color:#880E4F}
+
+
+.expandable-content {word-wrap: break-word;}
+div.listing-box .panel-body {max-height:80px;min-height:80px;}
+div.listing-box .panel-body h4 {font-size:100%;}
+
+#line-holder h3 {text-align:center;}

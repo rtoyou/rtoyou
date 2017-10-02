@@ -1,0 +1,7 @@
+[10-Nov-2016 05:28:49 UTC] PHP Fatal error:  Call to a member function select() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/importHospitalData.php on line 24
+[10-Nov-2016 05:32:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 140
+[10-Nov-2016 05:41:21 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 140
+[10-Nov-2016 05:49:27 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 140
+[10-Nov-2016 18:05:43 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 140
+[16-Nov-2016 17:38:08 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 140
+[16-Nov-2016 17:39:20 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/pacific0073/public_html/80a740febb8085c43fbee79a231513aa/rtoyou-27may/crons/database.php on line 141
